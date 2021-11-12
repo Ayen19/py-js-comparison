@@ -1,1 +1,1 @@
-# python-js-comparison
+# py-js-comparison
